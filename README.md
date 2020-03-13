@@ -34,7 +34,7 @@ total_count = a_count + t_count + c_count + g_count
 
 total_count = total_count * 1.0
 
-But there may be a more eloquent way to code this?
+But there may be a more elegant way to code this?
 
 Finally, we calculate the proportions and print the results:
 
